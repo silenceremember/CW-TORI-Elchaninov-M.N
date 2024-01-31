@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Crystal_01
+  - Crystal_02
+  - Crystal_03
+  - Crystal_04
+  - Crystal_05
+  - Crystal_06
+  - MergeToggle_1
+  - MergeToggle_2
+  - MergeToggle_3
+  - MegaCrystal_01
+  - MegaCrystal_02
+  - MegaCrystal_03
+  - MegaCrystal_04
+  - Money_10
+  - Craftable_Crystal_01
+  - Craftable_Crystal_02
+  - Craftable_Crystal_03
+  - Craftable_Crystal_04
+  - Craftable_Crystal_05
+  - Craftable_Crystal_06
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1725548821
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bag_Background
+    uniqueID: 2056820379
+    locked: 0
+  - name: Bag_MergeToggle
+    uniqueID: 3081239063
+    locked: 0
+  - name: Crystal_Lock
+    uniqueID: 3845589995
+    locked: 0
+  - name: Crystal_On
+    uniqueID: 4043539869
+    locked: 0
+  - name: Bag_Cover
+    uniqueID: 1668001935
+    locked: 0
+  - name: Bag_Border
+    uniqueID: 4152065911
+    locked: 0
+  - name: UI
+    uniqueID: 2126668235
+    locked: 0
